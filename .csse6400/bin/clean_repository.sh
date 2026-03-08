@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Ensure that students have not committed inappropriate files for a Git repository.
+# Ensure that students have not committed inappropriate files for a Git repository
 
 # The following files are not allowed in a Git repository.
 ILLEGAL_FILES=(.DS_Store .localized .DS_Store? ._* .Spotlight-V100 .Trashes Thumbs.db ehthumbs.db desktop.ini)
